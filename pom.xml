@@ -22,12 +22,12 @@
 			</plugin>
 		</plugins>
 	</build>
-	
+
 	<dependencies>
-	<dependency>
-    <groupId>edu.washington.cs.types.jsr308</groupId>
-    <artifactId>jsr308-compiler</artifactId>
-    <version>1.7.5</version>
-</dependency>
+		<dependency>
+			<groupId>edu.washington.cs.types.jsr308</groupId>
+			<artifactId>jsr308-compiler</artifactId>
+			<version>1.7.5</version>
+		</dependency>
 	</dependencies>
 </project>
